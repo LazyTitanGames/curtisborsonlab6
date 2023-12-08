@@ -11,8 +11,6 @@ You are encouraged to use the provided naming convention for ease of review.
 
 // INSERT YOUR CODE HERE
 
-let modelName;
-let duration;
 
 /****************** helper function ******************/
 /* create a function called recalculate() which will
